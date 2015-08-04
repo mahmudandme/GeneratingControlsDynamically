@@ -1,0 +1,6 @@
+c:\users\mitch\documents\visual studio 2013\Projects\GeneratingDynamicServerControls\GeneratingDynamicServerControls\bin\GeneratingDynamicServerControls.dll.config
+c:\users\mitch\documents\visual studio 2013\Projects\GeneratingDynamicServerControls\GeneratingDynamicServerControls\bin\GeneratingDynamicServerControls.dll
+c:\users\mitch\documents\visual studio 2013\Projects\GeneratingDynamicServerControls\GeneratingDynamicServerControls\bin\GeneratingDynamicServerControls.pdb
+c:\users\mitch\documents\visual studio 2013\Projects\GeneratingDynamicServerControls\GeneratingDynamicServerControls\obj\Debug\GeneratingDynamicServerControls.csprojResolveAssemblyReference.cache
+c:\users\mitch\documents\visual studio 2013\Projects\GeneratingDynamicServerControls\GeneratingDynamicServerControls\obj\Debug\GeneratingDynamicServerControls.dll
+c:\users\mitch\documents\visual studio 2013\Projects\GeneratingDynamicServerControls\GeneratingDynamicServerControls\obj\Debug\GeneratingDynamicServerControls.pdb
